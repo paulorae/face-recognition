@@ -1,3 +1,3 @@
-# face-recognition
+# face-recognition-attendance-system
 
-#(will update soon.)
+# (will update soon after aproval)
